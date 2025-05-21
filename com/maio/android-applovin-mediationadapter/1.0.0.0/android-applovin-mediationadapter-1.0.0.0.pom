@@ -4,6 +4,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.maio</groupId>
   <artifactId>android-applovin-mediationadapter</artifactId>
-  <version>13.2.0</version>
+  <version>1.0.0.0</version>
   <packaging>pom</packaging>
 </project>
